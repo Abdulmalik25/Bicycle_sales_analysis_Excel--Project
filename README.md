@@ -5,6 +5,32 @@ Pedal to Success: Unveiling Bicycle Sales Insights! Dive into my Excel project t
 
 ## Tech Stack used
 <img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/c69248d4-f54b-42af-9fd9-3b1d346ac291" alt="Picture1" width="350" height="350">
+# Data Description
+| Column Name    | Attributes               |
+|----------------|-----------------------------------|
+| Segment        | Type of customer segment           |
+| Customer_ID    | Unique identifier for customers   |
+| Product_ID     | Unique identifier for products    |
+| ID             | Unique identifier for transactions|
+| Discount Band  | Categories of discount bands      |
+| Units Sold     | Number of units sold              |
+| Manufacturing Price | Price at which the product was manufactured|
+| Sale Price     | Price at which the product was sold|
+| Gross Sales    | Total sales revenue before discounts|
+| Discounts      | Amount of discounts applied       |
+| Sales          | Total sales revenue after discounts|
+| Sales ('000)   | Total sales revenue in thousands |
+| COGS           | Cost of goods sold               |
+| Profit         | Total profit                     |
+| Profit ('000)  | Total profit in thousands        |
+| Date           | Date of the transaction          |
+| Month          | Month of the transaction         |
+| Quarter        | Quarter of the transaction       |
+| Year           | Year of the transaction          |
+| Customer_Name  | Name of the customer             |
+| Product_Name   | Name of the product              |
+| Country        | Country where the transaction occurred|
+
 
 # Getting Started
 
