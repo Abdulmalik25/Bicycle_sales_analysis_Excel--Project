@@ -25,8 +25,17 @@ several pivot table calculations was created to identify the factors influencing
 
 ## Below is a snippet of the pivot tables in Excel.
 ![sales bi 1](https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/0e6a8f39-dc90-4fa0-8dfb-7bc84a548980)
-<img src="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/ebd3f176-e57b-47ed-a6c2-a003dbc87b17" alt="auto 2" width="700" height="600">
+![bic 2](https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/833b9bc1-17de-462f-b2c6-8bc8a6b9df8e)
 
-<img src="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/d9a4b814-8eea-44d0-b495-fae82305d9bd" alt="bic 2" width="700" height="600">
+## Data Visualization
+Finally, the dashboard was created by inserting and  customizing the pivot charts of corresponding  pivot table.
+
+## Below is a snippet of the final dashboard in Excel.
+![Salesbicycleshop Excel](https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/8fa89422-7799-4898-861b-d985000c88e9)
+
+## Conclusion
+ This Bicycle Sales Analysis Excel Project has provided invaluable insights into the factors driving sales growth, including COGS, Month, Profit, Sales, Product Name, and Country and also several other factors. The dashboard shows how the sales of this bicycle varies in each month with other dynamic factors contributing to the sales in different countries.
+
+
 
 
