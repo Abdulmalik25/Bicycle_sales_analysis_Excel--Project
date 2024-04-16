@@ -5,6 +5,7 @@ Pedal to Success: Unveiling Bicycle Sales Insights! Dive into my Excel project t
 
 ## Tech Stack used
 <img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/c69248d4-f54b-42af-9fd9-3b1d346ac291" alt="Picture1" width="350" height="350">
+
 # Data Description
 
 | Column Name    |          Attributes               |
